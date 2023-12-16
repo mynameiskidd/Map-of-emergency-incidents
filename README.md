@@ -28,7 +28,7 @@ Developed solution allows to visualize multidimensional information effectively.
 ![Structure of data table](https://github.com/N1ghtF1re/Map-of-emergency-incidents/blob/master/docs/db-table-structure.PNG?raw=true)
 
 SQL request to create table:
-``` sql
+``` SQL
 CREATE TABLE `TableName` (
   `id` INT(100) NOT NULL,
   `Region` VARCHAR(40) COLLATE utf8_unicode_ci NOT NULL,
